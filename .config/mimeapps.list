@@ -1,0 +1,12 @@
+[Default Applications]
+application/x-zerosize=nvim.desktop
+image/png=imv.desktop
+
+[Added Associations]
+application/x-zerosize=nvim.desktop;
+application/x-shellscript=kitty-open.desktop;nvim.desktop;
+application/json=code-oss.desktop;
+text/css=nvim.desktop;
+text/plain=nvim.desktop;
+text/markdown=firefox.desktop;nvim.desktop;
+image/png=firefox.desktop;feh.desktop;imv.desktop;

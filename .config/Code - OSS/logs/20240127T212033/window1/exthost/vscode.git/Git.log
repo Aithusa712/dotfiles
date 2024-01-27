@@ -1,0 +1,6 @@
+2024-01-27 21:20:36.453 [info] Log level: Info
+2024-01-27 21:20:36.453 [info] Validating found git in: "git"
+2024-01-27 21:20:36.453 [info] Using git "2.43.0" from "git"
+2024-01-27 21:20:36.453 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-27 21:20:36.453 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-27 21:38:05.942 [warning] Failed to get repository realpath for: "/home/kim/Downloads/dotfiles-main/waybar/themes/ml4w". Error: ENOENT: no such file or directory, realpath '/home/kim/Downloads/dotfiles-main/waybar/themes/ml4w'

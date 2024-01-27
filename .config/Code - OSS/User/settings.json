@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "editor.fontFamily": "hack nerd font",
+    "workbench.preferredDarkColorTheme": "Catppuccin Frappé",
+    "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark",
+    "editor.minimap.enabled": false
+}

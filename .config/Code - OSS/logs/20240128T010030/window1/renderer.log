@@ -1,0 +1,11 @@
+2024-01-28 01:00:31.650 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/kim/.config/waybar/style.css","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-01-28 01:00:31.903 [info] Started local extension host with pid 3392.
+2024-01-28 01:00:35.100 [info] [perf] Render performance baseline is 21ms
+2024-01-28 01:01:41.256 [error] Unable to read file '/home/kim/Downloads/dotfiles-main/waybar/themes/ml4w/style.css' (Error: Unable to resolve nonexistent file '/home/kim/Downloads/dotfiles-main/waybar/themes/ml4w/style.css'): Error: Unable to read file '/home/kim/Downloads/dotfiles-main/waybar/themes/ml4w/style.css' (Error: Unable to resolve nonexistent file '/home/kim/Downloads/dotfiles-main/waybar/themes/ml4w/style.css')
+    at n.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:645:18891)
+    at n.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:645:18686)
+    at async b.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2169:42874)
+    at async b.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2169:42628)
+    at async P.Cb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2158:6445)
+    at async P.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2158:4892)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2169:38735

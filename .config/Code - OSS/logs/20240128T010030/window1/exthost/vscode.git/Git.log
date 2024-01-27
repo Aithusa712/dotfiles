@@ -1,0 +1,28 @@
+2024-01-28 01:00:32.882 [info] Log level: Info
+2024-01-28 01:00:32.882 [info] Validating found git in: "git"
+2024-01-28 01:00:32.882 [info] Using git "2.43.0" from "git"
+2024-01-28 01:00:32.882 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-28 01:00:32.882 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:01:36.155 [warning] Failed to get repository realpath for: "/home/kim/Downloads/dotfiles-main/waybar/themes/ml4w". Error: ENOENT: no such file or directory, realpath '/home/kim/Downloads/dotfiles-main/waybar/themes/ml4w'
+2024-01-28 01:01:41.230 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-28 01:01:41.230 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:02:02.482 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-28 01:02:02.482 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:02:05.992 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-28 01:02:05.992 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:03:19.716 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-28 01:03:19.716 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:03:49.486 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-28 01:03:49.486 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:03:51.852 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-28 01:03:51.852 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:03:52.980 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-28 01:03:52.980 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:03:52.988 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-28 01:03:52.988 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:03:54.427 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-28 01:03:54.427 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:03:54.446 [info] > git rev-parse --show-toplevel [0ms]
+2024-01-28 01:03:54.446 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-28 01:03:54.454 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-28 01:03:54.454 [info] fatal: not a git repository (or any of the parent directories): .git
