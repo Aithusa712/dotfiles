@@ -31,13 +31,15 @@
  <p>&nbsp;</p>
  <img src=https://github.com/Aithusa712/dotfiles/assets/58389663/725a1eb9-56c2-401e-b24e-2b610f026910)>
  <p>&nbsp;</p>
- <img src=https://github.com/Aithusa712/dotfiles/assets/58389663/66d29425-f5a5-4c4f-b56d-ba8a55f305cd)>
+ <img src=https://github.com/Aithusa712/dotfiles/assets/58389663/f4ab2f1a-5c4a-4f0f-afd1-691dfcbdd0e7)>
  <p>&nbsp;</p>
  <img src=https://github.com/Aithusa712/dotfiles/assets/58389663/9f282c77-94ac-48a5-857c-5fea205b7aee)>
  <p>&nbsp;</p>
  <img src=https://github.com/Aithusa712/dotfiles/assets/58389663/de9a8cd6-1dae-4529-844f-e7bd40632385)>
  <p>&nbsp;</p>
  <img src=https://github.com/Aithusa712/dotfiles/assets/58389663/71cf91c2-575d-4335-b3f5-b4ac03d3047f)>
+  <p>&nbsp;</p>
+ <img src=https://github.com/Aithusa712/dotfiles/assets/58389663/acc95f87-1c97-4f6e-93c4-bfb4dc7c8669)>
 </ul>
 <p>&nbsp;</p>
 <ul>
